@@ -1,0 +1,676 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Montserrat', sans-serif;;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+    align-items: center;
+    
+}
+
+
+.contacts{
+    
+    background-color: #414040;
+}
+
+
+.logo {
+    width: 18.18px;
+    height: 30px;
+    margin-right: 20px;
+    
+}
+
+.head_location {
+    max-width: 208px;
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+
+.head_time {
+    margin-right: 8px;
+    max-width: 104px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+
+.order_call {
+    margin-left: 29px;
+    padding: 15px 54px 15px 53px;
+    background-color:white;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.phones {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.phone_three {
+    font-size: 12px;
+    margin-left: 29px;
+    font-weight: 400;
+}
+
+
+.menu {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    align-items: center;
+    
+}
+
+.menu_ul {
+    display: flex;
+    column-gap: 40px;
+    list-style: none;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+
+.h_title {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+
+.title {
+    margin: 0 auto;
+    padding: 135px 409px 136px 409px;
+    max-width: 782px;
+    text-align: center;
+    color: white;
+}
+
+.catalog {
+    text-decoration: none;
+    background-color: #E05100;
+    color: white;
+    padding: 20px 85px 20px 86px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.button {
+    margin-top: 57px;
+}
+
+.h_subtitle { 
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+}
+
+
+.main {
+   background-image: url(images/phon.svg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.product_title {
+    text-align: center;
+    margin-top: 120px;
+
+
+}
+
+
+.production {
+    margin-top: 120px;
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    column-gap: 30px;
+    margin-top: 56px;
+}
+
+
+
+.card-logo {
+    padding: 60px 32.15px 44px 31px;
+}
+
+
+.card-name {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    padding-top: 44px;
+}
+
+.cards>img {
+    max-width: 176.85px;
+    padding: 60px 32.15px 90px 31px;
+}
+
+.more_result {
+   text-align: center;
+   margin-top: 72px;
+   
+}
+
+ 
+.result_link {
+   
+    text-decoration: none;
+    background-color: #E05100;
+    padding: 20PX 61px 20px 62px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700px;
+    
+}
+
+.about_section {
+    margin-top: 180px;
+    background-color: #414040;
+    display: flex;
+    color: white;
+}
+
+
+.about-image {
+    max-width: 748px;
+    max-height: 748px;
+    border-radius: 0px 30px 30px 0px;
+    
+
+}
+
+
+.about-title {
+    padding: 120px 678px 10px 68px;
+    max-width: 705px;
+    font-size: 35px;
+    font-weight: 700;
+   
+}
+
+
+.about-subtitle {
+    padding: 8px 49px 21px 67px;
+    max-width: 706px;
+    font-size: 20px;
+    line-height: 24.38px;
+    font-weight: 700;
+}
+
+
+.about p {
+    margin: 31px 79px 20px 68px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.63px;
+}
+
+
+
+
+
+.buy-btn {
+    margin: 20px 544px 98px 68px;
+    background-color: #E05100;
+    border-radius: 30px;
+    padding: 20px 66px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.buy-button {
+    margin-top: 40px;
+}
+
+
+
+.logo-production {
+    
+    position: absolute;
+   
+}
+
+.logo-production-name {
+   
+    position: relative;
+    left:38px;
+    
+    
+
+
+
+}
+
+.production {
+    background-color: #414040;
+}
+
+
+.images {
+    display: flex;
+}
+
+
+.container2 {
+    margin-left: 275px;
+}
+
+.about-production {
+    text-align: center;
+    padding: 120px 646px 90px 646px;
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+
+
+.deskription {
+    margin-left: 30px;
+    margin-top: 47px;
+    max-width: 289px;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container2 {
+    color: white;
+}
+
+
+.video {
+    position: relative;
+    left: 430px;
+    top: -340px;
+    right: 1;
+}
+
+.work-subtitle {
+    max-width: 1048px;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.work-title {
+    padding: 120px 670px 80px 671px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+.top-title {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: center;
+
+}
+
+
+.top-cards {
+    display: grid;
+    grid-template-columns: 510px 510px;
+    grid-template-rows: 389px ;
+    gap: 30px;
+    justify-content: center;
+    
+}
+
+
+.top-card {
+    display: grid;
+    
+    grid-template-columns: 330px 180px;
+    grid-template-rows: 389px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+
+
+.top-desk {
+    font-size: 14px;
+    
+    padding-left: 17px;
+
+}
+
+
+.top-subtitle {
+    margin-left: 17px;
+    
+    
+
+
+
+}
+    
+
+.top_icon {
+    max-width: 283px;
+    padding-top: 20px;
+    padding-left: 23px;
+    
+}
+
+
+.images_card-color{
+    margin-left: 18px;
+    margin-bottom: 14px;
+    
+}
+
+
+.card_color {
+    width: 14px;
+    margin-right: 10px;
+   
+    
+
+}
+    
+
+
+.card_left {
+    display: grid;
+    grid-template-rows: 349px;
+}
+
+
+.card-right {
+    background-color: #414040;
+    border-top-right-radius:30px ;
+    border-bottom-right-radius:30px ;
+}
+
+
+.bottom_logo {
+    position: relative;
+    left: 111px;
+    bottom: 46px;
+}
+
+.choice_title {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.choice_subtitle {
+
+font-size: 12px;
+font-weight: 400;
+
+}
+
+.choice {
+    padding: 20px 33px 77px 23px;
+    color: #FFFFFF;
+}
+
+
+.work-images {
+    display: flex;
+    column-gap: 31px;
+    margin-top: 40px;
+    justify-content: center;
+
+}
+
+
+.adwn-cards {
+    display: flex;
+    justify-content: center;
+    column-gap: 29px;
+    margin-top: 50px;
+
+    
+    
+}
+
+
+.adwn-card {
+    margin-left: 29px;
+    max-width: 330px;
+    background-color: white;
+    
+    
+
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+
+
+.adwn-card-title {
+   
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    max-width: 272px;
+    padding-left: 28px;
+    
+}
+
+
+.adwn-card-subtitle {
+    
+    padding-left: 28px;
+    padding-bottom: 38px;
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 272px;
+}
+
+
+.images-adwn {
+    padding: 24.9px 130.9px 30px 130.9px;
+}
+
+
+.adwn-card-subtitle--3 {
+    max-width: 272px;
+    max-height: 60px;
+    padding-left: 28px;
+    font-size: 14px;
+    padding-bottom: 80px;
+}
+
+
+.adwn {
+    background-color: #414040;
+}
+
+.title-adwn {
+    color: white;
+    text-align: center;
+    padding: 120px 598px 80px 599px;
+    font-size: 35px;
+    font-weight: 700;
+    
+}
+
+
+.adwn-card-subtitle--2 {
+    max-width: 275px;
+    max-height: 85px;
+    margin-bottom: 50px;
+    font-size: 14px;
+    padding-left: 28px;
+}
+
+
+.adwn-card-subtitle--4 {
+    max-width: 272px;
+    max-height: 119px;
+    margin-bottom: 48px;
+    font-size: 14px;
+    padding-left: 28px;
+}
+
+
+.adwn-card-subtitle--5 {
+    max-width: 272px;
+    max-height: 102px;
+    margin-bottom: 65px;
+    font-size: 14px;
+    padding-left: 28px;
+}
+
+
+.adwn-card-subtitle--6 {
+    max-width: 272px;
+    max-height: 85px;
+    margin-bottom: 49px;
+    font-size: 14px;
+    padding-left: 28px;
+}
+
+.adwn-logo--5 {
+    text-align: center;
+}
+
+
+
+
+.footer-time {
+    display: flex;
+    align-items: center;
+}
+
+
+.work-time {
+    margin-left: 20px;
+}
+
+
+.adwn-cards2 {
+    padding-bottom: 120px;
+}
+
+
+.column_1 {
+    margin-left: 275px;
+}
+
+
+.work-tel{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.work-phones {
+    margin-left: 20px;
+    
+}
+
+.work-phone {
+    align-items: center;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+.footer-title {
+    padding-top: 60px;
+    color: #E05100;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.footer-sub {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+.time-work {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 815px 220px 220px 220px;
+    grid-template-rows: 315px;
+
+}
+
+
+.column2-title {
+    padding-top: 60px;
+    color: #E05100;
+}
+
+
+.column3-title {
+    padding-top: 60px;
+    color: #E05100;
+}
+
+.column2-sub {
+    font-size: 12px;
+}
+
+
+.column3-sub {
+    font-size: 12px;
+
+}
+
+.end {
+    text-align: center;
+    font-size: 12px;
+}
+
